@@ -46,4 +46,7 @@ demo演示：
 
 
 
-**注：**如果在`exploit`编写时使用了`routersploit`提供的`multi`装饰器，那么就不要使用`extsploit`中的东西
+**注:**
+
+1. 如果在`exploit`编写时使用了`routersploit`提供的`multi`装饰器，那么就不要使用`extsploit`中的东西
+2. 每个`exploit`的`run/check`方法需要返回一个`dict`,为空表示失败,如果返回有内容表示成功，可参照`testexploits`中的例子
