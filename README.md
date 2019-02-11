@@ -45,7 +45,6 @@ demo演示：
 6. 所有外部需要使用的东西在`extsploit/__init__.py`中导入就行了
 
 
-
 **注:**
 
 1. 如果在`exploit`编写时使用了`routersploit`提供的`multi`装饰器，那么就不要使用`extsploit`中的东西
