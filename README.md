@@ -12,7 +12,7 @@
 
 demo演示：
 
-[![](https://asciinema.org/a/4wxNpOvdyJi7aTSsXBWBLHwxp.png)](https://asciinema.org/a/4wxNpOvdyJi7aTSsXBWBLHwxp)
+[![](https://asciinema.org/a/xa8r6PhxwtGw87Osyk52GFpZC)](https://asciinema.org/a/xa8r6PhxwtGw87Osyk52GFpZC)
 
 
 
